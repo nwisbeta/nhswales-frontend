@@ -28,7 +28,7 @@ Good:
 Bad:
 ```
 .selector {
-  color: #005eb8;
+  color: #1b365d;
 }
 ```
 

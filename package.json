@@ -1,11 +1,11 @@
 {
-  "name": "nhsuk-frontend",
-  "version": "5.1.0",
-  "description": "NHS.UK frontend contains the code you need to start building user interfaces for NHS websites and services.",
+  "name": "@nwisbeta/nhswales-frontend",
+  "version": "0.0.3-alpha",
+  "description": "NHS.Wales frontend contains the code you need to start building user interfaces for NHS websites and services.",
   "scripts": {
-    "prepare": "gulp bundle",
-    "build": "gulp build",
-    "start": "gulp",
+    "prepare": "npx gulp bundle",
+    "build": "npx gulp build",
+    "start": "npx gulp",
     "test": "npm run lint && npm run jest:ci",
     "lint": "npm run lint:js && npm run lint:css && npm run lint:html",
     "lint:js": "eslint -c ./tests/linters/.eslintrc.js packages/components/**/*.js",
@@ -50,7 +50,7 @@
     "webpack-stream": "^5.2.1"
   },
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com/"
   },
   "eslintConfig": {
     "extends": "./tests/linters/.eslintrc.js"
@@ -66,11 +66,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nhsuk/nhsuk-frontend.git"
+    "url": "git+https://github.com/nwisbeta/nhswales-frontend.git"
   },
-  "homepage": "https://nhsuk.github.io/nhsuk-frontend/",
   "bugs": {
-    "url": "https://github.com/nhsuk/nhsuk-frontend/issues"
+    "url": "https://github.com/nwisbeta/nhswales-frontend/issues"
   },
   "license": "MIT"
 }

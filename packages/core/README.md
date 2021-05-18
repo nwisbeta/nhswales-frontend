@@ -282,7 +282,7 @@ large-desktop: 990px
 ### Primary
 
 ```scss
-$color_nhsuk-blue: #005eb8;
+$color_nhsuk-blue: #1b365d;
 $color_nhsuk-white: #ffffff;
 $color_nhsuk-black: #212b32;
 $color_nhsuk-green: #007f3b;

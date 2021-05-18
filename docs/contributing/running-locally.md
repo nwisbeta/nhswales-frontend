@@ -20,7 +20,7 @@ We recommend to use the [long-term support (LTS) version of Nodejs](https://node
 You can clone the repository directly if you're a member of the [NHS.UK GitHub organisation](https://github.com/nhsuk/)
 
 ```
-git clone git@github.com:nhsuk/nhsuk-frontend.git nhsuk-frontend
+git clone git@github.com:nwisbeta/nhswales-frontend.git nhsuk-frontend
 ```
 
 Otherwise you'll have to clone your own fork
