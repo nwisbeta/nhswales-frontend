@@ -1,6 +1,6 @@
 # Installing using compiled files
 
-When installing NHS.UK frontend using compiled files, you are using compiled and minified versions of the stylesheet and JavaScript.
+When installing NHS.Wales frontend using compiled files, you are using compiled and minified versions of the stylesheet and JavaScript.
 
 This means that you will not be able to:
 
@@ -52,6 +52,6 @@ If you require any of this functionality, you should [install using npm](/docs/i
       <script>document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script>
       ```
 
-  4. Create pages using NHS.UK frontend
+  4. Create pages using NHS.Wales frontend
 
       You can now create pages using the [Design system on the NHS digital service manual](https://service-manual.nhs.uk/design-system).

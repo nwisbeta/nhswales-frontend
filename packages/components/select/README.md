@@ -18,9 +18,9 @@ Find out more about the select component and when to use it in the [NHS digital 
     Label text goes here
   </label>
   <select class="nhsuk-select" id="select-1" name="select-1">
-    <option value="1">NHS.UK frontend option 1</option>
-    <option value="2" selected>NHS.UK frontend option 2</option>
-    <option value="3" disabled>NHS.UK frontend option 3</option>
+    <option value="1">NHS.Wales frontend option 1</option>
+    <option value="2" selected>NHS.Wales frontend option 2</option>
+    <option value="3" disabled>NHS.Wales frontend option 3</option>
   </select>
 </div>
 ```
@@ -39,16 +39,16 @@ Find out more about the select component and when to use it in the [NHS digital 
   "items": [
     {
       "value": 1,
-      "text": "NHS.UK frontend option 1"
+      "text": "NHS.Wales frontend option 1"
     },
     {
       "value": 2,
-      "text": "NHS.UK frontend option 2",
+      "text": "NHS.Wales frontend option 2",
       "selected": true
     },
     {
       "value": 3,
-      "text": "NHS.UK frontend option 3",
+      "text": "NHS.Wales frontend option 3",
       "disabled": true
     }
   ]
@@ -75,9 +75,9 @@ Find out more about the select component and when to use it in the [NHS digital 
   Error message goes here
   </span>
   <select class="nhsuk-select nhsuk-select--error" id="select-2" name="select-2" aria-describedby="select-2-hint select-2-error">
-    <option value="1">NHS.UK frontend option 1</option>
-    <option value="2">NHS.UK frontend option 2</option>
-    <option value="3">NHS.UK frontend option 3</option>
+    <option value="1">NHS.Wales frontend option 1</option>
+    <option value="2">NHS.Wales frontend option 2</option>
+    <option value="3">NHS.Wales frontend option 3</option>
   </select>
 </div>
 ```
@@ -102,15 +102,15 @@ Find out more about the select component and when to use it in the [NHS digital 
   "items": [
     {
       "value": 1,
-      "text": "NHS.UK frontend option 1"
+      "text": "NHS.Wales frontend option 1"
     },
     {
       "value": 2,
-      "text": "NHS.UK frontend option 2"
+      "text": "NHS.Wales frontend option 2"
     },
     {
       "value": 3,
-      "text": "NHS.UK frontend option 3"
+      "text": "NHS.Wales frontend option 3"
     }
   ]
 }) }}
