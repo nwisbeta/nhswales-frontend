@@ -22,7 +22,7 @@
 .nhsuk-care-card {
   @include nhsuk-responsive-margin(7, 'bottom');
   @include nhsuk-responsive-margin(7, 'top');
-  @include care-card($color_nhsuk-blue, $color_nhsuk-white, 4px); /* [1] */
+  @include care-card($color_nhswales-blue, $color_nhswales-white, 4px); /* [1] */
   border: 1px solid transparent; /* [2] */
 }
 
@@ -52,7 +52,7 @@
 
   &:before,
   &:after {
-    border: solid 32px $color_nhsuk-blue; /* [3] */
+    border: solid 32px $color_nhswales-blue; /* [3] */
     content: '';
     display: block;
     height: 0;
@@ -78,8 +78,8 @@
   @include nhsuk-responsive-padding(5, 'left');
   @include nhsuk-responsive-padding(5, 'right');
 
-  background-color: $color_nhsuk-white;
-  border: 1px solid $color_nhsuk-grey-4;
+  background-color: $color_nhswales-white;
+  border: 1px solid $color_nhswales-grey-4;
   border-top: 0;
   padding-top: nhsuk-spacing(5); /* [5] */
 
@@ -99,37 +99,37 @@
  */
 
 .nhsuk-care-card--urgent {
-  @include care-card($color_nhsuk-red, $color_nhsuk-white, 6px);
+  @include care-card($color_nhswales-red, $color_nhswales-white, 6px);
 
   .nhsuk-care-card__arrow {
     &:before,
     &:after {
-      border-color: $color_nhsuk-red;
+      border-color: $color_nhswales-red;
     }
   }
 
 }
 
 .nhsuk-care-card--immediate {
-  @include care-card($color_nhsuk-red, $color_nhsuk-white, 8px);
+  @include care-card($color_nhswales-red, $color_nhswales-white, 8px);
 
   .nhsuk-care-card__arrow {
     &:before,
     &:after {
-      border-color: $color_nhsuk-red;
+      border-color: $color_nhswales-red;
     }
   }
 
   .nhsuk-care-card__content {
-    background-color: $color_nhsuk-black;
+    background-color: $color_nhswales-black;
     border: 0;
-    color: $color_nhsuk-white;
+    color: $color_nhswales-white;
 
     a {
-      color: $color_nhsuk-white; /* [1] */
+      color: $color_nhswales-white; /* [1] */
 
       &:focus {
-        color: $color_nhsuk-black; /* [1] */
+        color: $color_nhswales-black; /* [1] */
       }
 
     }
@@ -138,21 +138,21 @@
 
   .nhsuk-details,
   .nhsuk-details__summary {
-    color: $color_nhsuk-white;
+    color: $color_nhswales-white;
   }
 
   .nhsuk-details__summary {
     &:hover {
-      color: $color_nhsuk-white;
+      color: $color_nhswales-white;
     }
     &:focus {
-      color: $color_nhsuk-black;
+      color: $color_nhswales-black;
     }
   }
 
   .nhsuk-action-link__link {
     .nhsuk-icon__arrow-right-circle {
-      fill: $color_nhsuk-white; /* [8] */
+      fill: $color_nhswales-white; /* [8] */
     }
   }
 

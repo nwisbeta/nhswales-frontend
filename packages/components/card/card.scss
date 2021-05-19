@@ -15,13 +15,13 @@
 
 $card-border-width: 1px;
 $card-border-bottom-width: nhsuk-spacing(1);
-$card-border-color: $color_nhsuk-grey-4;
-$card-border-hover-color: $color_nhsuk-grey-3;
+$card-border-color: $color_nhswales-grey-4;
+$card-border-hover-color: $color_nhswales-grey-3;
 
 .nhsuk-card {
   @include nhsuk-responsive-margin(7, 'bottom');
 
-  background: $color_nhsuk-white;
+  background: $color_nhswales-white;
   border: $card-border-width solid $card-border-color;
   position: relative; /* [1] */
   width: 100%;
@@ -30,7 +30,7 @@ $card-border-hover-color: $color_nhsuk-grey-3;
 .nhsuk-card__img {
   @include print-hide();
 
-  border-bottom: $card-border-width solid $color_nhsuk-grey-5; /* [2] */
+  border-bottom: $card-border-width solid $color_nhswales-grey-5; /* [2] */
   display: block;
   width: 100%;
 }
@@ -137,8 +137,8 @@ $card-border-hover-color: $color_nhsuk-grey-3;
 }
 
 .nhsuk-card__heading--feature {
-  background: $color_nhsuk-blue;
-  color: $color_nhsuk-white;
+  background: $color_nhswales-blue;
+  color: $color_nhswales-white;
   display: inline-block;
   left: - (nhsuk-spacing(4) + $card-border-width); /* [5] */
   margin-bottom: nhsuk-spacing(2);

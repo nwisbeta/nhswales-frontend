@@ -40,7 +40,7 @@
 
 .nhsuk-header {
   @include clearfix();
-  background-color: $color_nhsuk-blue;
+  background-color: $color_nhswales-blue;
 }
 
 .nhsuk-header__container {
@@ -57,18 +57,18 @@
   float: left;
 
   .nhsuk-logo__background {
-    fill: $color_nhsuk-white;
+    fill: $color_nhswales-white;
 
     @include mq($media-type: print) {
-      fill: $color_nhsuk-blue;
+      fill: $color_nhswales-blue;
     }
   }
 
   .nhsuk-logo__text {
-    fill: $color_nhsuk-blue;
+    fill: $color_nhswales-blue;
 
     @include mq($media-type: print) {
-      fill: $color_nhsuk-white;
+      fill: $color_nhswales-white;
     }
   }
 
@@ -129,7 +129,7 @@
   position: relative;
 
   &.js-show {
-    border-bottom: nhsuk-spacing(1) solid $color_nhsuk-grey-5; /* [12] */
+    border-bottom: nhsuk-spacing(1) solid $color_nhswales-grey-5; /* [12] */
   }
 
   @include mq($from: tablet) {
@@ -165,7 +165,7 @@
   top: 0;
 
   .nhsuk-icon__search {
-    fill: $color_nhsuk-white;
+    fill: $color_nhswales-white;
     height: 21px; /* [3] */
     width: 21px; /* [3] */
   }
@@ -184,15 +184,15 @@
 
 .nhsuk-search__input {
   &::placeholder {
-    color: $color_nhsuk-grey-1;
+    color: $color_nhswales-grey-1;
     font-size: $nhsuk-base-font-size;
   }
   &:-ms-input-placeholder {
-    color: $color_nhsuk-grey-1;
+    color: $color_nhswales-grey-1;
     font-size: $nhsuk-base-font-size;
   }
   &::-webkit-input-placeholder {
-    color: $color_nhsuk-grey-1;
+    color: $color_nhswales-grey-1;
     font-size: $nhsuk-base-font-size;
   }
 
@@ -224,7 +224,7 @@
   }
 
   .nhsuk-header__search-form {
-    background-color: $color_nhsuk-white;
+    background-color: $color_nhswales-white;
     display: flex;
     padding: nhsuk-spacing(3);
     width: 100%;
@@ -232,12 +232,12 @@
 
   .nhsuk-search__input {
     -webkit-appearance: listbox; /* [5] */
-    border-bottom: 1px solid $color_nhsuk-grey-3;
+    border-bottom: 1px solid $color_nhswales-grey-3;
     border-bottom-left-radius: $nhsuk-border-radius;
     border-bottom-right-radius: 0;
-    border-left: 1px solid $color_nhsuk-grey-3;
+    border-left: 1px solid $color_nhswales-grey-3;
     border-right: 0;
-    border-top: 1px solid $color_nhsuk-grey-3;
+    border-top: 1px solid $color_nhswales-grey-3;
     border-top-left-radius: $nhsuk-border-radius;
     border-top-right-radius: 0;
     flex-grow: 2;
@@ -261,7 +261,7 @@
   }
 
   .nhsuk-search__submit {
-    background-color: $color_nhsuk-green;
+    background-color: $color_nhswales-aqua;
     border: 0;
     border-bottom-left-radius: 0;
     border-bottom-right-radius: $nhsuk-border-radius;
@@ -276,7 +276,7 @@
     padding: nhsuk-spacing(2) nhsuk-spacing(2) 0;
 
     .nhsuk-icon__search {
-      fill: $color_nhsuk-white;
+      fill: $color_nhswales-white;
       height: 38px; /* [3] */
       width: 38px; /* [3] */
     }
@@ -341,7 +341,7 @@
 
   .nhsuk-search__input {
     -webkit-appearance: listbox; /* [5] */
-    border: 1px solid $color_nhsuk-white;
+    border: 1px solid $color_nhswales-white;
     border-bottom-left-radius: $nhsuk-border-radius;
     border-bottom-right-radius: 0;
     border-top-left-radius: $nhsuk-border-radius;
@@ -362,7 +362,7 @@
   }
 
   .nhsuk-search__submit {
-    background-color: $color_nhsuk-grey-5;
+    background-color: $color_nhswales-grey-5;
     border: 0;
     border-bottom-left-radius: 0;
     border-bottom-right-radius: $nhsuk-border-radius;
@@ -387,11 +387,11 @@
 
     &:hover {
       background-color: $color_shade_nhsuk-blue-35;
-      border: 1px solid $color_nhsuk-white;
+      border: 1px solid $color_nhswales-white;
       cursor: pointer;
 
       .nhsuk-icon__search {
-        fill: $color_nhsuk-white;
+        fill: $color_nhswales-white;
       }
     }
 
@@ -405,7 +405,7 @@
       border: 0;
 
       .nhsuk-icon__search {
-        fill: $color_nhsuk-white;
+        fill: $color_nhswales-white;
       }
     }
 
@@ -493,7 +493,7 @@
 
 .nhsuk-header__navigation {
   @include print-hide();
-  background-color: $color_nhsuk-white;
+  background-color: $color_nhswales-white;
   clear: both;
   display: none;
   overflow: hidden;
@@ -502,8 +502,8 @@
     display: block;
 
     @include mq($until: large-desktop) {
-      border-bottom: nhsuk-spacing(1) solid $color_nhsuk-grey-5; /* [12] */
-      border-top: nhsuk-spacing(1) solid $color_nhsuk-grey-5; /* [12] */
+      border-bottom: nhsuk-spacing(1) solid $color_nhswales-grey-5; /* [12] */
+      border-top: nhsuk-spacing(1) solid $color_nhswales-grey-5; /* [12] */
 
       .nhsuk-width-container {
         margin: 0 nhsuk-spacing(3);
@@ -548,7 +548,7 @@
 }
 
 .nhsuk-header__navigation-item {
-  border-top: 1px solid $color_nhsuk-grey-5;
+  border-top: 1px solid $color_nhswales-grey-5;
   margin-bottom: 0;
   position: relative;
 }
@@ -557,37 +557,37 @@
   @include nhsuk-font(16);
   border-bottom: nhsuk-spacing(1) solid transparent;
   border-top: nhsuk-spacing(1) solid transparent;
-  color: $color_nhsuk-blue;
+  color: $color_nhswales-blue;
   display: block;
   padding: 12px nhsuk-spacing(3);
   text-decoration: none;
 
   .nhsuk-icon__chevron-right {
-    fill: $color_nhsuk-grey-3;
+    fill: $color_nhswales-grey-3;
     position: absolute;
     right: nhsuk-spacing(1);
     top: 11px;
   }
 
   &:visited {
-    color: $color_nhsuk-blue;
+    color: $color_nhswales-blue;
 
     @include mq($from: large-desktop) {
-      color: $color_nhsuk-white;
+      color: $color_nhswales-white;
     }
   }
 
   &:hover {
     box-shadow: none;
-    color: $color_nhsuk-blue;
+    color: $color_nhswales-blue;
     text-decoration: underline;
 
     @include mq($from: large-desktop) {
-      color: $color_nhsuk-white;
+      color: $color_nhswales-white;
     }
 
     .nhsuk-icon__chevron-right {
-      fill: $color_nhsuk-blue;
+      fill: $color_nhswales-blue;
     }
 
   }
@@ -638,7 +638,7 @@
   }
 
   .nhsuk-header__navigation {
-    background-color: $color_nhsuk-blue;
+    background-color: $color_nhswales-blue;
     display: block;
     margin: 0 auto;
     max-width: $nhsuk-page-width + nhsuk-spacing(9); /* [18] */
@@ -667,7 +667,7 @@
   }
 
   .nhsuk-header__navigation-link {
-    color: $color_nhsuk-white;
+    color: $color_nhswales-white;
     line-height: normal;
   }
 
@@ -768,7 +768,7 @@
 .nhsuk-header__service-name {
   @include nhsuk-font(19);
 
-  color: $color_nhsuk-white;
+  color: $color_nhswales-white;
   display: block;
   padding-left: 0;
   padding-right: 0;
@@ -814,7 +814,7 @@
     width: auto;
 
     &:hover {
-      color: $color_nhsuk-white;
+      color: $color_nhswales-white;
       text-decoration: underline;
 
       .nhsuk-logo {
@@ -863,7 +863,7 @@
 }
 
 .nhsuk-organisation-name {
-  color: $color_nhsuk-white;
+  color: $color_nhswales-white;
   display: block;
   font-size: 22px;
   font-weight: bold;
@@ -893,14 +893,14 @@
 }
 
 .nhsuk-organisation-descriptor {
-  color: $color_nhsuk-white;
+  color: $color_nhswales-white;
   display: block;
   font-size: 15px;
   font-weight: bold;
   line-height: 21px;
 
   @include mq($media-type: print) {
-    color: $color_nhsuk-blue;
+    color: $color_nhswales-blue;
   }
 
   @media (max-width: 450px) {
@@ -933,15 +933,15 @@
 // Header (white)
 
 .nhsuk-header--white {
-  background-color: $color_nhsuk-white;
+  background-color: $color_nhswales-white;
 
   .nhsuk-logo {
     .nhsuk-logo__background {
-      fill: $color_nhsuk-blue;
+      fill: $color_nhswales-blue;
     }
 
     .nhsuk-logo__text {
-      fill: $color_nhsuk-white;
+      fill: $color_nhswales-white;
     }
   }
 
@@ -959,10 +959,10 @@
   }
 
   .nhsuk-search__submit {
-    background-color: $color_nhsuk-blue;
+    background-color: $color_nhswales-blue;
 
     .nhsuk-icon__search {
-      fill: $color_nhsuk-white;
+      fill: $color_nhswales-white;
     }
 
     &:hover {
@@ -980,7 +980,7 @@
   }
 
   .nhsuk-search__input {
-    border: 1px solid $color_nhsuk-grey-3;
+    border: 1px solid $color_nhswales-grey-3;
 
     &:focus {
       border: 2px solid $nhsuk-focus-text-color;
@@ -993,20 +993,20 @@
 
   .nhsuk-header__search-toggle,
   .nhsuk-header__menu-toggle {
-    border-color: $color_nhsuk-blue;
-    color: $color_nhsuk-blue;
+    border-color: $color_nhswales-blue;
+    color: $color_nhswales-blue;
 
     .nhsuk-icon {
-      fill: $color_nhsuk-blue;
+      fill: $color_nhswales-blue;
     }
 
     &.is-active,
     &:hover {
       border-color: $color_shade_nhsuk-blue-20;
-      color: $color_nhsuk-white;
+      color: $color_nhswales-white;
 
       .nhsuk-icon {
-        fill: $color_nhsuk-white;
+        fill: $color_nhswales-white;
       }
     }
 
@@ -1030,11 +1030,11 @@
   }
 
   .nhsuk-organisation-descriptor {
-    color: $color_nhsuk-blue;
+    color: $color_nhswales-blue;
   }
 
   .nhsuk-header__transactional-service-name--link {
-    color: $color_nhsuk-black;
+    color: $color_nhswales-black;
   }
 
   .nhsuk-header__navigation-list {
@@ -1051,17 +1051,17 @@
 
 .nhsuk-header--white-nav {
   .nhsuk-header__navigation {
-    background-color: $color_nhsuk-white;
+    background-color: $color_nhswales-white;
 
     .nhsuk-header__navigation-list {
-      border-top: 1px solid $color_nhsuk-grey-5;
+      border-top: 1px solid $color_nhswales-grey-5;
     }
 
     .nhsuk-header__navigation-link {
-      color: $color_nhsuk-blue;
+      color: $color_nhswales-blue;
 
       &:visited {
-        color: $color_nhsuk-blue;
+        color: $color_nhswales-blue;
       }
 
       &:focus {

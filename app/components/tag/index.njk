@@ -1,4 +1,4 @@
-{% set html_style = 'background-color: #f0f4f5;' %}
+{% set html_style = 'background-color: #FBF9F9;' %}
 {% set title = 'Tag' %}
 {% from 'components/tag/macro.njk' import tag %}
 {% extends 'layout.njk' %}
@@ -53,12 +53,12 @@
               </tr>
               <tr class="nhsuk-table__row">
                 <td class="nhsuk-table__cell">
-                  <code> nhsuk-tag--green </code>
+                  <code> nhsuk-tag--aqua </code>
                 </td>
                 <td class="nhsuk-table__cell">
                   {{ tag({
                     text: "New",
-                    classes: "nhsuk-tag--green"
+                    classes: "nhsuk-tag--aqua"
                   })}}
                 </td>
               </tr>

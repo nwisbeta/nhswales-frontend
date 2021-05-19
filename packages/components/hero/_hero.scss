@@ -13,8 +13,8 @@
 .nhsuk-hero {
   @include print-color($nhsuk-print-text-color);
 
-  background-color: $color_nhsuk-blue;
-  color: $color_nhsuk-white;
+  background-color: $color_nhswales-blue;
+  color: $color_nhswales-white;
   position: relative; /* [1] */
 
   .nhsuk-hero--border { /* [2] */
@@ -92,8 +92,8 @@
 .nhsuk-hero--image-description {
 
   .nhsuk-hero-content {
-    background-color: $color_nhsuk-blue;
-    color: $color_nhsuk-white;
+    background-color: $color_nhswales-blue;
+    color: $color_nhswales-white;
     margin-bottom: 24px;
     padding: nhsuk-spacing(4);
     position: relative;
@@ -116,7 +116,7 @@
 
       &:before,
       &:after {
-        border: solid 32px $color_nhsuk-blue; /* [8] */
+        border: solid 32px $color_nhswales-blue; /* [8] */
         content: '';
         display: block;
         height: 0;
@@ -148,7 +148,7 @@
     }
 
     @include mq($media-type: print) {
-      color: $color_nhsuk-black;
+      color: $color_nhswales-black;
       max-width: 100%;
       padding: 0;
     }

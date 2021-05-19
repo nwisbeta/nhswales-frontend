@@ -17,7 +17,7 @@
   @include nhsuk-responsive-margin(7, 'top');
   @include nhsuk-responsive-padding(4);
 
-  border-left: $nhsuk-border-width-inset-text solid $color_nhsuk-blue;
+  border-left: $nhsuk-border-width-inset-text solid $color_nhswales-blue;
 
   @include mq($media-type: print) {
     border-color: $nhsuk-print-text-color;

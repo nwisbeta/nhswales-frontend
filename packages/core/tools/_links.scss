@@ -51,14 +51,14 @@
 
 @mixin nhsuk-link-style-white {
 
-  color: $color_nhsuk-white;
+  color: $color_nhswales-white;
 
   &:visited {
-    color: $color_nhsuk-white;
+    color: $color_nhswales-white;
   }
 
   &:hover {
-    color: $color_nhsuk-white;
+    color: $color_nhswales-white;
     text-decoration: none;
   }
 

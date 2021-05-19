@@ -15,14 +15,14 @@
  */
 
 html {
-  background-color: $color_nhsuk-grey-4;
+  background-color: $color_nhswales-grey-4;
   overflow-y: scroll; /* [1] */
 
   font-family: $nhswales-font, $nhswales-font-fallback;
 }
 
 body {
-  background-color: $color_nhsuk-grey-5;
+  background-color: $color_nhswales-grey-5;
   color: $nhsuk-text-color;
   font-size: $nhsuk-base-font-size;
   -moz-osx-font-smoothing: grayscale; /* [2] */

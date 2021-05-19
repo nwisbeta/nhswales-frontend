@@ -278,29 +278,29 @@ large-desktop: 990px
 ### Primary
 
 ```scss
-$color_nhsuk-blue: #2C3E72;
-$color_nhsuk-white: #ffffff;
-$color_nhsuk-black: #212b32;
-$color_nhsuk-green: #007f3b;
-$color_nhsuk-red: #da291c;
-$color_nhsuk-yellow: #ffeb3b;
-$color_nhsuk-purple: #330072;
+$color_nhswales-blue: #2C3E72;
+$color_nhswales-white: #ffffff;
+$color_nhswales-black: #262626;
+$color_nhswales-aqua: #0D91BD;
+$color_nhswales-red: #da291c;
+$color_nhswales-yellow: #F8CA4D;
+$color_nhswales-purple: #663488;
 ```
 
 ### Secondary
 
 ```scss
 $color_nhsuk-pale-yellow: #fff9c4;
-$color_nhsuk-warm-yellow: #ffb81C;
+$color_nhsuk-warm-yellow: #F8CA4D;
 $color_nhsuk-aqua-green: #00A499;
 ```
 
 ### Greyscale
 
 ```scss
-$color_nhsuk-grey-1: #425563;
-$color_nhsuk-grey-2: #768692;
-$color_nhsuk-grey-3: #aeb7bd;
-$color_nhsuk-grey-4: #d8dde0;
-$color_nhsuk-grey-5: #f0f4f5;
+$color_nhswales-grey-1: #616061;
+$color_nhswales-grey-2: #BEC3D3;
+$color_nhswales-grey-3: #D3D6E1;
+$color_nhswales-grey-4: #E8EAEF;
+$color_nhswales-grey-5: #FBF9F9;
 ```
