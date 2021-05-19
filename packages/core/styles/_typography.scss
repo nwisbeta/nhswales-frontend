@@ -16,7 +16,7 @@
   @include nhsuk-typography-responsive(48);
 
   display: block;
-  font-weight: $nhsuk-font-bold;
+  font-weight: $nhswales-font-bold;
   margin-top: 0;
 
   @include nhsuk-responsive-margin(7, 'bottom');
@@ -31,7 +31,7 @@ h1,
   @include nhsuk-typography-responsive(32);
 
   display: block;
-  font-weight: $nhsuk-font-bold;
+  font-weight: $nhswales-font-bold;
   margin-top: 0;
 
   @include nhsuk-responsive-margin(4, 'bottom');
@@ -46,7 +46,7 @@ h2,
   @include nhsuk-typography-responsive(24);
 
   display: block;
-  font-weight: $nhsuk-font-bold;
+  font-weight: $nhswales-font-bold;
   margin-top: 0;
 
   @include nhsuk-responsive-margin(4, 'bottom');
@@ -61,7 +61,7 @@ h3,
   @include nhsuk-typography-responsive(22);
 
   display: block;
-  font-weight: $nhsuk-font-bold;
+  font-weight: $nhswales-font-bold;
   margin-top: 0;
 
   @include nhsuk-responsive-margin(4, 'bottom');
@@ -76,7 +76,7 @@ h4,
   @include nhsuk-typography-responsive(19);
 
   display: block;
-  font-weight: $nhsuk-font-bold;
+  font-weight: $nhswales-font-bold;
   margin-top: 0;
 
   @include nhsuk-responsive-margin(4, 'bottom');
@@ -91,7 +91,7 @@ h5,
   @include nhsuk-typography-responsive(19);
 
   display: block;
-  font-weight: $nhsuk-font-bold;
+  font-weight: $nhswales-font-bold;
   margin-top: 0;
 
   @include nhsuk-responsive-margin(4, 'bottom');
@@ -256,5 +256,5 @@ h1 + .nhsuk-lede-text--small {
 
 strong,
 b {
-  font-weight: $nhsuk-font-bold;
+  font-weight: $nhswales-font-bold;
 }

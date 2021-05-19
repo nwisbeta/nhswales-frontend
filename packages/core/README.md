@@ -231,11 +231,7 @@ Hide elements visually but keep it in the DOM, useful for screen readers.
 
 ### Font
 
-The default `@font-face`, "Frutiger", is loaded from `https://assets.nhs.uk`. The host for the fonts can be
-overridden or disabled entirely.
-
-- `$nhsuk-fonts-path`: base URL to load fonts from (e.g. `/fonts/`; trailing slash required)
-- `$nhsuk-include-font-face`: set to false to disable the inclusion of the `@font-face` definition entirely
+The NHS Wales font should actually be Agency, but we don't have an easy way to distribute it, so we use Roboto instead.
 
 ## Breakpoints
 
@@ -282,7 +278,7 @@ large-desktop: 990px
 ### Primary
 
 ```scss
-$color_nhsuk-blue: #1b365d;
+$color_nhsuk-blue: #2C3E72;
 $color_nhsuk-white: #ffffff;
 $color_nhsuk-black: #212b32;
 $color_nhsuk-green: #007f3b;

@@ -5,17 +5,13 @@
 //
 // Fonts
 //
-// 1. Fallback fonts if Frutiger fails to load
-//
 
-$nhsuk-font: Frutiger W01 !default;
-$nhsuk-font-fallback: Arial, Sans-serif !default; // [1] //
-$nhsuk-font-family-print: sans-serif !default;
-$nhsuk-font-bold: 600 !default;
-$nhsuk-font-normal: 400 !default;
-$nhsuk-font-light: $nhsuk-font-normal !default;
-$nhsuk-fonts-path: 'https://assets.nhs.uk/fonts/' !default;
-$nhsuk-include-font-face: true !default;
+$nhswales-font: Roboto !default;
+$nhswales-font-fallback: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif !default; // [1] //
+$nhswales-font-family-print: sans-serif !default;
+$nhswales-font-bold: 700 !default;
+$nhswales-font-normal: 400 !default;
+$nhswales-font-light: $nhswales-font-normal !default;
 
 //
 // Font sizing and spacing

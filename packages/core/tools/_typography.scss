@@ -34,7 +34,7 @@
 //
 
 @mixin nhsuk-typography-weight-normal($important: false) {
-  font-weight: $nhsuk-font-normal iff($important, !important);
+  font-weight: $nhswales-font-normal iff($important, !important);
 }
 
 // Bold font weight
@@ -46,7 +46,7 @@
 //
 
 @mixin nhsuk-typography-weight-bold($important: false) {
-  font-weight: $nhsuk-font-bold iff($important, !important);
+  font-weight: $nhswales-font-bold iff($important, !important);
 }
 
 // Line height

@@ -28,7 +28,7 @@ Good:
 Bad:
 ```
 .selector {
-  color: #1b365d;
+  color: #2C3E72;
 }
 ```
 
@@ -268,14 +268,14 @@ Good:
 Bad:
 ```
 @mixin FONT_STACK() {
-  font-family: $nhsuk-font-stack;
+  font-family: $nhswales-font-stack;
 }
 ```
 
 Good:
 ```
 @mixin font-stack() {
-  font-family: $nhsuk-font-stack;
+  font-family: $nhswales-font-stack;
 }
 ```
 
