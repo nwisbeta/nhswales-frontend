@@ -123,9 +123,9 @@ a:active {
  */
 html {
   background-color: #E8EAEF;
+  font-family: Roboto, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
   overflow-y: scroll;
   /* [1] */
-  font-family: Roboto, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
 }
 
 body {
