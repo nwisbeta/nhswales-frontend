@@ -16,9 +16,8 @@
 
 html {
   background-color: $color_nhswales-grey-4;
-  overflow-y: scroll; /* [1] */
-
   font-family: $nhswales-font, $nhswales-font-fallback;
+  overflow-y: scroll; /* [1] */
 }
 
 body {
