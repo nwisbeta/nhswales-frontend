@@ -4649,20 +4649,12 @@ b {
 .nhsuk-header__logo {
   float: left;
 }
-.nhsuk-header__logo .nhsuk-logo__background {
+.nhsuk-header__logo .nhswales-logo__paths {
   fill: #ffffff;
 }
 @media print {
-  .nhsuk-header__logo .nhsuk-logo__background {
+  .nhsuk-header__logo .nhswales-logo__paths {
     fill: #2C3E72;
-  }
-}
-.nhsuk-header__logo .nhsuk-logo__text {
-  fill: #2C3E72;
-}
-@media print {
-  .nhsuk-header__logo .nhsuk-logo__text {
-    fill: #ffffff;
   }
 }
 @media (min-width: 40.0625em) {
@@ -5562,8 +5554,8 @@ b {
   text-decoration: none;
 }
 .nhsuk-header--organisation .nhsuk-header__logo .nhsuk-logo {
-  height: 32px;
-  width: 80px;
+  height: 40px;
+  width: 70px;
 }
 @media (max-width: 450px) {
   .nhsuk-header--organisation .nhsuk-header__logo .nhsuk-logo {
@@ -5657,11 +5649,8 @@ b {
 .nhsuk-header--white {
   background-color: #ffffff;
 }
-.nhsuk-header--white .nhsuk-logo .nhsuk-logo__background {
+.nhsuk-header--white .nhsuk-logo .nhswales-logo__paths {
   fill: #2C3E72;
-}
-.nhsuk-header--white .nhsuk-logo .nhsuk-logo__text {
-  fill: #ffffff;
 }
 .nhsuk-header--white .nhsuk-header__link:hover {
   color: #262626;
