@@ -56,19 +56,11 @@
 .nhsuk-header__logo {
   float: left;
 
-  .nhsuk-logo__background {
+  .nhswales-logo__paths {
     fill: $color_nhswales-white;
 
     @include mq($media-type: print) {
       fill: $color_nhswales-blue;
-    }
-  }
-
-  .nhsuk-logo__text {
-    fill: $color_nhswales-blue;
-
-    @include mq($media-type: print) {
-      fill: $color_nhswales-white;
     }
   }
 
@@ -842,8 +834,8 @@
   }
 
   .nhsuk-header__logo .nhsuk-logo {
-    height: 32px;
-    width: 80px;
+    height: 40px;
+    width: 70px;
 
     @media (max-width: 450px) {
       height: 24px;
@@ -936,12 +928,8 @@
   background-color: $color_nhswales-white;
 
   .nhsuk-logo {
-    .nhsuk-logo__background {
+    .nhswales-logo__paths {
       fill: $color_nhswales-blue;
-    }
-
-    .nhsuk-logo__text {
-      fill: $color_nhswales-white;
     }
   }
 
