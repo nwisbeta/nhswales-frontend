@@ -8,7 +8,7 @@ Find out more about the care card component and when to use it in the [NHS digit
 
 ### Care card non-urgent (blue)
 
-[Preview the care card non-urgent (blue) component](https://nhsuk.github.io/nhsuk-frontend/components/care-card/care-card-non-urgent.html)
+[Preview the care card non-urgent (blue) component](https://nwibeta.github.io/nhswales-frontend/components/care-card/care-card-non-urgent.html)
 
 #### HTML markup
 
@@ -54,7 +54,7 @@ Find out more about the care card component and when to use it in the [NHS digit
 
 ### Care card urgent (red)
 
-[Preview care card urgent (red) component](https://nhsuk.github.io/nhsuk-frontend/components/care-card/care-card-urgent.html)
+[Preview care card urgent (red) component](https://nwibeta.github.io/nhswales-frontend/components/care-card/care-card-urgent.html)
 
 #### HTML markup
 
@@ -100,7 +100,7 @@ Find out more about the care card component and when to use it in the [NHS digit
 
 ### Care card immediate (red and black)
 
-[Preview care card immediate (red and black) component](https://nhsuk.github.io/nhsuk-frontend/components/care-card/care-card-immediate.html)
+[Preview care card immediate (red and black) component](https://nwibeta.github.io/nhswales-frontend/components/care-card/care-card-immediate.html)
 
 #### HTML markup
 

@@ -5,7 +5,7 @@ Find out more about the error message component and when to use it in the [NHS d
 
 ## Quick start example
 
-[Preview the error message component](https://nhsuk.github.io/nhsuk-frontend/components/error-message/index.html)
+[Preview the error message component](https://nwibeta.github.io/nhswales-frontend/components/error-message/index.html)
 
 ### HTML markup
 

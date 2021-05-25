@@ -8,7 +8,7 @@ Find out more about the pagination component and when to use it in the [NHS digi
 
 ### Pagination
 
-[Preview the pagination component](https://nhsuk.github.io/nhsuk-frontend/components/pagination/index.html)
+[Preview the pagination component](https://nwibeta.github.io/nhswales-frontend/components/pagination/index.html)
 
 #### HTML markup
 

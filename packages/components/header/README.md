@@ -13,7 +13,7 @@ compiled JavaScript for all components `nhsuk.min.js` or the individual componen
 
 ### Header
 
-[Preview the header component](https://nhsuk.github.io/nhsuk-frontend/components/header/index.html)
+[Preview the header component](https://nwibeta.github.io/nhswales-frontend/components/header/index.html)
 
 #### HTML markup
 
@@ -162,7 +162,7 @@ compiled JavaScript for all components `nhsuk.min.js` or the individual componen
 
 ### Header with navigation
 
-[Preview the header with navigation component](https://nhsuk.github.io/nhsuk-frontend/components/header/header-navigation.html)
+[Preview the header with navigation component](https://nwibeta.github.io/nhswales-frontend/components/header/header-navigation.html)
 
 #### HTML markup
 
@@ -285,7 +285,7 @@ compiled JavaScript for all components `nhsuk.min.js` or the individual componen
 
 ### Header with search
 
-[Preview the header with search component](https://nhsuk.github.io/nhsuk-frontend/components/header/header-search.html)
+[Preview the header with search component](https://nwibeta.github.io/nhswales-frontend/components/header/header-search.html)
 
 #### HTML markup
 
@@ -346,7 +346,7 @@ compiled JavaScript for all components `nhsuk.min.js` or the individual componen
 
 ### Header with logo
 
-[Preview the header with logo component](https://nhsuk.github.io/nhsuk-frontend/components/header/header-logo.html)
+[Preview the header with logo component](https://nwibeta.github.io/nhswales-frontend/components/header/header-logo.html)
 
 #### HTML markup
 
@@ -381,7 +381,7 @@ compiled JavaScript for all components `nhsuk.min.js` or the individual componen
 
 ### Header transactional
 
-[Preview the header transactional component](https://nhsuk.github.io/nhsuk-frontend/components/header/header-transactional.html)
+[Preview the header transactional component](https://nwibeta.github.io/nhswales-frontend/components/header/header-transactional.html)
 
 #### HTML markup
 
@@ -417,7 +417,7 @@ compiled JavaScript for all components `nhsuk.min.js` or the individual componen
 
 ### Header transactional with service name
 
-[Preview the header transactional with service name component](https://nhsuk.github.io/nhsuk-frontend/components/header/header-transactional-service-name.html)
+[Preview the header transactional with service name component](https://nwibeta.github.io/nhswales-frontend/components/header/header-transactional-service-name.html)
 
 #### HTML markup
 
@@ -457,7 +457,7 @@ compiled JavaScript for all components `nhsuk.min.js` or the individual componen
 
 ### Header transactional with a long service name
 
-[Preview the header transactional with a long service name component](https://nhsuk.github.io/nhsuk-frontend/components/header/header-transactional-long-service-name.html)
+[Preview the header transactional with a long service name component](https://nwibeta.github.io/nhswales-frontend/components/header/header-transactional-long-service-name.html)
 
 #### HTML markup
 
@@ -495,7 +495,7 @@ compiled JavaScript for all components `nhsuk.min.js` or the individual componen
 
 ### Header organisational
 
-[Preview the header organisational component](https://nhsuk.github.io/nhsuk-frontend/components/header/header-org.html)
+[Preview the header organisational component](https://nwibeta.github.io/nhswales-frontend/components/header/header-org.html)
 
 #### HTML markup
 
@@ -649,7 +649,7 @@ compiled JavaScript for all components `nhsuk.min.js` or the individual componen
 
 ### Header organisational with white header
 
-[Preview the header organisational with white header component](https://nhsuk.github.io/nhsuk-frontend/components/header/header-org-white.html)
+[Preview the header organisational with white header component](https://nwibeta.github.io/nhswales-frontend/components/header/header-org-white.html)
 
 #### HTML markup
 
@@ -804,7 +804,7 @@ compiled JavaScript for all components `nhsuk.min.js` or the individual componen
 
 ### Header organisational with white header and navigation
 
-[Preview the header organisational with white header and navigation component](https://nhsuk.github.io/nhsuk-frontend/components/header/header-org-white-nav.html)
+[Preview the header organisational with white header and navigation component](https://nwibeta.github.io/nhswales-frontend/components/header/header-org-white-nav.html)
 
 #### HTML markup 
 

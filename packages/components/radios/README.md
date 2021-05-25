@@ -8,7 +8,7 @@ Find out more about the radios component and when to use it in the [NHS digital 
 
 ### Radios
 
-[Preview the radios component](https://nhsuk.github.io/nhsuk-frontend/components/radios/index.html)
+[Preview the radios component](https://nwibeta.github.io/nhswales-frontend/components/radios/index.html)
 
 #### HTML markup
 
@@ -73,7 +73,7 @@ Find out more about the radios component and when to use it in the [NHS digital 
 
 ### Radios inline
 
-[Preview the radios inline component](https://nhsuk.github.io/nhsuk-frontend/components/radios/inline.html)
+[Preview the radios inline component](https://nwibeta.github.io/nhswales-frontend/components/radios/inline.html)
 
 #### HTML markup
 
@@ -139,7 +139,7 @@ Find out more about the radios component and when to use it in the [NHS digital 
 
 ### Radios disabled
 
-[Preview the radios disabled component](https://nhsuk.github.io/nhsuk-frontend/components/radios/disabled.html)
+[Preview the radios disabled component](https://nwibeta.github.io/nhswales-frontend/components/radios/disabled.html)
 
 #### HTML markup
 
@@ -205,7 +205,7 @@ Find out more about the radios component and when to use it in the [NHS digital 
 
 ### Radios with a divider
 
-[Preview the radios with a divider component](https://nhsuk.github.io/nhsuk-frontend/components/radios/divider.html)
+[Preview the radios with a divider component](https://nwibeta.github.io/nhswales-frontend/components/radios/divider.html)
 
 #### HTML markup
 
@@ -277,7 +277,7 @@ Find out more about the radios component and when to use it in the [NHS digital 
 
 ### Radios with hint text on items
 
-[Preview the radios with hint text on items component](https://nhsuk.github.io/nhsuk-frontend/components/radios/hint.html)
+[Preview the radios with hint text on items component](https://nwibeta.github.io/nhswales-frontend/components/radios/hint.html)
 
 #### HTML markup
 
@@ -350,7 +350,7 @@ Find out more about the radios component and when to use it in the [NHS digital 
 
 ### Radios without fieldset
 
-[Preview the radios without fieldset component](https://nhsuk.github.io/nhsuk-frontend/components/radios/without-fieldset.html)
+[Preview the radios without fieldset component](https://nwibeta.github.io/nhswales-frontend/components/radios/without-fieldset.html)
 
 #### HTML markup
 
@@ -407,7 +407,7 @@ Find out more about the radios component and when to use it in the [NHS digital 
 
 ### Radios with hint text and error message
 
-[Preview the radios with hint text and error message component](https://nhsuk.github.io/nhsuk-frontend/components/radios/hint-error.html)
+[Preview the radios with hint text and error message component](https://nwibeta.github.io/nhswales-frontend/components/radios/hint-error.html)
 
 #### HTML markup
 
@@ -483,7 +483,7 @@ Find out more about the radios component and when to use it in the [NHS digital 
 
 ### Radios with conditional content
 
-[Preview the radios with conditonal content](https://nhsuk.github.io/nhsuk-frontend/components/radios/conditional.html)
+[Preview the radios with conditonal content](https://nwibeta.github.io/nhswales-frontend/components/radios/conditional.html)
 
 #### HTML markup
 

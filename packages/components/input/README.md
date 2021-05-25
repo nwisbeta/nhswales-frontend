@@ -8,7 +8,7 @@ Find out more about the input component and when to use it in the [NHS digital s
 
 ### Input
 
-[Preview the input component](https://nhsuk.github.io/nhsuk-frontend/components/input/index.html)
+[Preview the input component](https://nwibeta.github.io/nhswales-frontend/components/input/index.html)
 
 #### HTML markup
 
@@ -39,7 +39,7 @@ Find out more about the input component and when to use it in the [NHS digital s
 
 ### Input with autocomplete attribute
 
-[Preview the input with autocomplete attribute component](https://nhsuk.github.io/nhsuk-frontend/components/input/autocomplete.html)
+[Preview the input with autocomplete attribute component](https://nwibeta.github.io/nhswales-frontend/components/input/autocomplete.html)
 
 #### Guidance
 
@@ -75,7 +75,7 @@ See [Autofilling form controls: the autocomplete attribute](https://html.spec.wh
 
 ### Input with hint text
 
-[Preview the input with hint text component](https://nhsuk.github.io/nhsuk-frontend/components/input/hint.html)
+[Preview the input with hint text component](https://nwibeta.github.io/nhswales-frontend/components/input/hint.html)
 
 #### HTML markup
 
@@ -112,7 +112,7 @@ See [Autofilling form controls: the autocomplete attribute](https://html.spec.wh
 
 ### Input with error message
 
-[Preview the input with error message component](https://nhsuk.github.io/nhsuk-frontend/components/input/error.html)
+[Preview the input with error message component](https://nwibeta.github.io/nhswales-frontend/components/input/error.html)
 
 #### HTML markup
 
@@ -155,7 +155,7 @@ See [Autofilling form controls: the autocomplete attribute](https://html.spec.wh
 
 ### Input with width modifier
 
-[Preview the input with width modifier component](https://nhsuk.github.io/nhsuk-frontend/components/input/custom-width.html)
+[Preview the input with width modifier component](https://nwibeta.github.io/nhswales-frontend/components/input/custom-width.html)
 
 #### HTML markup
 

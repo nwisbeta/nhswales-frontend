@@ -8,7 +8,7 @@ Find out more about the textarea component and when to use it in the [NHS digita
 
 ### Textarea
 
-[Preview the textarea component](https://nhsuk.github.io/nhsuk-frontend/components/textarea/index.html)
+[Preview the textarea component](https://nwibeta.github.io/nhswales-frontend/components/textarea/index.html)
 
 #### HTML markup
 
@@ -45,7 +45,7 @@ Find out more about the textarea component and when to use it in the [NHS digita
 
 ### Textarea with autocomplete attribute
 
-[Preview the textarea with autocomplete attribute component](https://nhsuk.github.io/nhsuk-frontend/components/textarea/autocomplete.html)
+[Preview the textarea with autocomplete attribute component](https://nwibeta.github.io/nhswales-frontend/components/textarea/autocomplete.html)
 
 #### Guidance
 
@@ -81,7 +81,7 @@ See [Autofilling form controls: the autocomplete attribute](https://html.spec.wh
 
 ### Textarea with error message
 
-[Preview the textarea with error message component](https://nhsuk.github.io/nhsuk-frontend/components/textarea/error.html)
+[Preview the textarea with error message component](https://nwibeta.github.io/nhswales-frontend/components/textarea/error.html)
 
 #### HTML markup
 

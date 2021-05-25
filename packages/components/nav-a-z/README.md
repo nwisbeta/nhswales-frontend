@@ -2,7 +2,7 @@
 
 ## Quick start example
 
-[Preview the nav a-z component](https://nhsuk.github.io/nhsuk-frontend/components/nav-a-z/index.html)
+[Preview the nav a-z component](https://nwibeta.github.io/nhswales-frontend/components/nav-a-z/index.html)
 
 ### HTML markup
 

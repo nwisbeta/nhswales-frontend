@@ -8,7 +8,7 @@ Find out more about the card component and when to use it in the [NHS digital se
 
 ### Basic card
 
-[Preview the basic card component](https://nhsuk.github.io/nhsuk-frontend/components/card/basic-card.html)
+[Preview the basic card component](https://nwibeta.github.io/nhswales-frontend/components/card/basic-card.html)
 
 #### HTML markup
 
@@ -35,7 +35,7 @@ Find out more about the card component and when to use it in the [NHS digital se
 
 ### Clickable card
 
-[Preview the clickable card component](https://nhsuk.github.io/nhsuk-frontend/components/card/clickable-card.html)
+[Preview the clickable card component](https://nwibeta.github.io/nhswales-frontend/components/card/clickable-card.html)
 
 #### HTML markup
 
@@ -68,7 +68,7 @@ Find out more about the card component and when to use it in the [NHS digital se
 
 ### Card with an image
 
-[Preview the card with an image component](https://nhsuk.github.io/nhsuk-frontend/components/card/card-with-image.html)
+[Preview the card with an image component](https://nwibeta.github.io/nhswales-frontend/components/card/card-with-image.html)
 
 #### HTML markup
 
@@ -103,7 +103,7 @@ Find out more about the card component and when to use it in the [NHS digital se
 
 ### Card group
 
-[Preview the card group component](https://nhsuk.github.io/nhsuk-frontend/components/card/card-group.html)
+[Preview the card group component](https://nwibeta.github.io/nhswales-frontend/components/card/card-group.html)
 
 #### HTML markup
 
@@ -350,7 +350,7 @@ Find out more about the card component and when to use it in the [NHS digital se
 
 ### Feature
 
-[Preview the feature card component](https://nhsuk.github.io/nhsuk-frontend/components/card/feature-card.html)
+[Preview the feature card component](https://nwibeta.github.io/nhswales-frontend/components/card/feature-card.html)
 
 #### HTML markup
 

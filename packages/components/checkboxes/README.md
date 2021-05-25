@@ -8,7 +8,7 @@ Find out more about the checkboxes component and when to use it in the [NHS digi
 
 ### Checkboxes
 
-[Preview the checkboxes component](https://nhsuk.github.io/nhsuk-frontend/components/checkboxes/index.html)
+[Preview the checkboxes component](https://nwibeta.github.io/nhswales-frontend/components/checkboxes/index.html)
 
 #### HTML markup
 
@@ -82,7 +82,7 @@ Find out more about the checkboxes component and when to use it in the [NHS digi
 
 ### Checkboxes with hint text
 
-[Preview the checkboxes with hint text component](https://nhsuk.github.io/nhsuk-frontend/components/checkboxes/hint.html)
+[Preview the checkboxes with hint text component](https://nwibeta.github.io/nhswales-frontend/components/checkboxes/hint.html)
 
 #### HTML markup
 
@@ -157,7 +157,7 @@ Find out more about the checkboxes component and when to use it in the [NHS digi
 
 ### Checkboxes with disabled item
 
-[Preview the checkboxes with disabled item component](https://nhsuk.github.io/nhsuk-frontend/components/checkboxes/disabled.html)
+[Preview the checkboxes with disabled item component](https://nwibeta.github.io/nhswales-frontend/components/checkboxes/disabled.html)
 
 #### HTML markup
 
@@ -215,7 +215,7 @@ Find out more about the checkboxes component and when to use it in the [NHS digi
 
 ### Checkboxes with legend as page heading
 
-[Preview the checkboxes with legend as page heading component](https://nhsuk.github.io/nhsuk-frontend/components/checkboxes/page-heading.html)
+[Preview the checkboxes with legend as page heading component](https://nwibeta.github.io/nhswales-frontend/components/checkboxes/page-heading.html)
 
 #### HTML markup
 
@@ -292,7 +292,7 @@ Find out more about the checkboxes component and when to use it in the [NHS digi
 
 ### Checkboxes with error message
 
-[Preview the checkboxes with error message component](https://nhsuk.github.io/nhsuk-frontend/components/checkboxes/error.html)
+[Preview the checkboxes with error message component](https://nwibeta.github.io/nhswales-frontend/components/checkboxes/error.html)
 
 #### HTML markup
 
@@ -365,7 +365,7 @@ Find out more about the checkboxes component and when to use it in the [NHS digi
 
 ### Checkboxes with conditional content
 
-[Preview the checkboxes with conditional content](https://nhsuk.github.io/nhsuk-frontend/components/checkboxes/conditional.html)
+[Preview the checkboxes with conditional content](https://nwibeta.github.io/nhswales-frontend/components/checkboxes/conditional.html)
 
 #### HTML markup
 

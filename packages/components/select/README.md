@@ -8,7 +8,7 @@ Find out more about the select component and when to use it in the [NHS digital 
 
 ### Select
 
-[Preview the select component](https://nhsuk.github.io/nhsuk-frontend/components/select/index.html)
+[Preview the select component](https://nwibeta.github.io/nhswales-frontend/components/select/index.html)
 
 #### HTML markup
 
@@ -59,7 +59,7 @@ Find out more about the select component and when to use it in the [NHS digital 
 
 ### Select with hint text and error message
 
-[Preview the select with hint text and error message component](https://nhsuk.github.io/nhsuk-frontend/components/select/hint-error.html)
+[Preview the select with hint text and error message component](https://nwibeta.github.io/nhswales-frontend/components/select/hint-error.html)
 
 #### HTML markup
 

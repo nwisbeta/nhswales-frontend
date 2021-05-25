@@ -6,7 +6,7 @@ Find out more about the images component and when to use it in the [NHS digital 
 
 ## Quick start example
 
-[Preview the images component](https://nhsuk.github.io/nhsuk-frontend/components/images/index.html)
+[Preview the images component](https://nwibeta.github.io/nhswales-frontend/components/images/index.html)
 
 ### HTML markup
 

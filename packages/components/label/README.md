@@ -4,7 +4,7 @@
 
 ### Label
 
-[Preview the label component](https://nhsuk.github.io/nhsuk-frontend/components/label/index.html)
+[Preview the label component](https://nwibeta.github.io/nhswales-frontend/components/label/index.html)
 
 #### HTML markup
 
@@ -28,7 +28,7 @@
 
 ### Label with bold text
 
-[Preview the label with bold text component](https://nhsuk.github.io/nhsuk-frontend/components/label/bold.html)
+[Preview the label with bold text component](https://nwibeta.github.io/nhswales-frontend/components/label/bold.html)
 
 #### HTML markup
 
@@ -53,7 +53,7 @@
 
 ### Label as page heading
 
-[Preview the label as page heading component](https://nhsuk.github.io/nhsuk-frontend/components/label/page-heading.html)
+[Preview the label as page heading component](https://nwibeta.github.io/nhswales-frontend/components/label/page-heading.html)
 
 #### HTML markup
 

@@ -2,7 +2,7 @@
 
 ## Quick start example
 
-[Preview the list panel component](https://nhsuk.github.io/nhsuk-frontend/components/list-panel/index.html)
+[Preview the list panel component](https://nwibeta.github.io/nhswales-frontend/components/list-panel/index.html)
 
 ### HTML markup
 

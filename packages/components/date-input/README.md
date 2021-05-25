@@ -10,7 +10,7 @@ Note: The `pattern` attribute is not valid HTML for inputs where the type attrib
 
 ### Date input
 
-[Preview the date input component](https://nhsuk.github.io/nhsuk-frontend/components/date-input/index.html)
+[Preview the date input component](https://nwibeta.github.io/nhswales-frontend/components/date-input/index.html)
 
 #### HTML markup
 
@@ -90,7 +90,7 @@ Note: The `pattern` attribute is not valid HTML for inputs where the type attrib
 
 ### Date input with autocomplete attribute
 
-[Preview the date input with autocomplete attribute component](https://nhsuk.github.io/nhsuk-frontend/components/date-input/autocomplete.html)
+[Preview the date input with autocomplete attribute component](https://nwibeta.github.io/nhswales-frontend/components/date-input/autocomplete.html)
 
 #### Guidance
 
@@ -177,7 +177,7 @@ See [Autofilling form controls: the autocomplete attribute](https://html.spec.wh
 
 ### Date input with errors
 
-[Preview the date input with errors component](https://nhsuk.github.io/nhsuk-frontend/components/date-input/multiple-errors.html)
+[Preview the date input with errors component](https://nwibeta.github.io/nhswales-frontend/components/date-input/multiple-errors.html)
 
 #### HTML markup
 
@@ -262,7 +262,7 @@ See [Autofilling form controls: the autocomplete attribute](https://html.spec.wh
 
 ### Date input with error on single input
 
-[Preview the date input with error on single input component](https://nhsuk.github.io/nhsuk-frontend/components/date-input/error.html)
+[Preview the date input with error on single input component](https://nwibeta.github.io/nhswales-frontend/components/date-input/error.html)
 
 #### HTML markup
 
