@@ -1,6 +1,6 @@
 {
   "name": "@nwisbeta/nhswales-frontend",
-  "version": "0.0.5-alpha",
+  "version": "0.0.7-alpha",
   "description": "NHS.Wales frontend contains the code you need to start building user interfaces for NHS websites and services.",
   "scripts": {
     "prepare": "gulp bundle",
