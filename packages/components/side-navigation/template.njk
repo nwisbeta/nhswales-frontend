@@ -1,22 +1,10 @@
-<div class="nhsuk-side-navigation-container" >
-  <div class="nhsuk-side-navigation-options">
-    <ul class="nhsuk-side-navigation__list">
-      {%- for item in params.items %}     
-        <li class="nhsuk-side-navigation__item">
-          <a class="nhsuk-side-navigation__link" href="{{ item.href }}">{{ item.href | replace("#", "") | replace("_", " ") | capitalize }}</a>
-        </li>
-    {%- endfor %}
-    </ul>
-  </div>
-
-  <div class="nhsuk-side-navigation-spacer"></div>
-
-  <div class="nhsuk-side-navigation__sections">
+<div class="nhsuk-side-navigation-options">
+  <ul class="nhsuk-side-navigation__list">
     {%- for item in params.items %}
-      <section class="nhsuk-side-navigation__section" id="{{ item.href | replace("#", "")}}">
-        <h2>{{ item.href | replace("#", "") | replace("_", " ") | capitalize }}</h2>
-        {{ item.text | safe }}
-      </section>
+      <li class="nhsuk-side-navigation__item">
+        <a class="nhsuk-side-navigation__link" href="#{{ item.id }}">{{ item.id | replace("_", " ") | capitalize }}</a>
+      </li>
     {%- endfor %}
-  </div>
+  </ul>
 </div>
+<div class="nhsuk-side-navigation-spacer"></div>
