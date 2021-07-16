@@ -15,8 +15,8 @@ Find out more about the Side Navigation component and when to use it in the[NHS 
 <div class="nhsuk-side-navigation-container" >
   {{ sideNavigation({
     items: [
-      { id: "about" },
-      { id: "features" }
+      { id: "about", display: "About" },
+      { id: "features", display: "Features" }
     ]
   }) }}
   <div class="nhsuk-side-navigation-options">
@@ -51,8 +51,8 @@ Find out more about the Side Navigation component and when to use it in the[NHS 
 <div class="nhsuk-side-navigation-container" >
   {{ sideNavigation({
     items: [
-      { id: "about" },
-      { id: "features" }
+      { id: "about", display: "About" },
+      { id: "features", display: "Features" }
     ]
   }) }}
 
@@ -76,6 +76,7 @@ The Side Navigation Nunjucks macro takes the following arguments:
 | Name                    | Type     | Required  | Description  |
 | ------------------------|----------|-----------|--------------|
 | **items**               | array    | Yes       | Array of items in the Side Navigation. |
-| **items.[].id**       | string   | Yes       | Id value of a section to point to. |
+| **items.[].id**         | string   | Yes       | Id value of a section to point to. |
+| **items.[].display**    | string   | Yes       | Display text for the menu option. |
 
 If you are using Nunjucks macros in production be aware that using `html` arguments, or ones ending with `html` can be a [security risk](https://developer.mozilla.org/en-US/docs/Glossary/Cross-site_scripting). Read more about this in the [Nunjucks documentation](https://mozilla.github.io/nunjucks/api.html#user-defined-templates-warning).

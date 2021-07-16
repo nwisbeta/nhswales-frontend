@@ -2,7 +2,7 @@
   <ul class="nhsuk-side-navigation__list">
     {%- for item in params.items %}
       <li class="nhsuk-side-navigation__item">
-        <a class="nhsuk-side-navigation__link" href="#{{ item.id }}">{{ item.id | replace("_", " ") | capitalize }}</a>
+        <a class="nhsuk-side-navigation__link" href="#{{ item.id }}">{{ item.display }}</a>
       </li>
     {%- endfor %}
   </ul>
