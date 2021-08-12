@@ -4,8 +4,10 @@
 {% extends 'layout.njk' %}
 
 {% block body %}
-
   <div class="nhsuk-width-container">
+  <div class="nhsuk-header__container" style="height: 100px; background-color: teal; width:800px">
+    The menu becomes fixed if you scroll down past this header element 'nhsuk-header__container'
+  </div>
     <main class="nhsuk-main-wrapper" id="maincontent">
       <div class="nhsuk-grid-row">
         <div class="nhsuk-grid-column-two-thirds">
@@ -13,7 +15,7 @@
           <div class="nhsuk-side-navigation-container" >
             {{ sideNavigation({
               items: [
-                { id: "about", display: "About" },
+                { id: "about", display: "About", active: true },
                 { id: "features", display: "Features" },
                 { id: "testimonials", display: "Testimonials" },
                 { id: "next_steps", display: "Next Steps" }
