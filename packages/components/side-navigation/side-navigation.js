@@ -3,7 +3,7 @@ export default () => {
   // for menu items to apply active link styles to
   const menu = document.querySelector('.nhsuk-side-navigation-options');
   const spacer = document.querySelector('.nhsuk-side-navigation-spacer');
-  const header = document.querySelector('.nhsuk-header__container');
+  const header = document.querySelector('.nhsuk-header');
   const sections = document.querySelectorAll('.nhsuk-side-navigation__section');
   const menuLinks = document.querySelectorAll('.nhsuk-side-navigation__item a');
   // functions to add and remove the active class from links as appropriate
@@ -19,7 +19,7 @@ export default () => {
   const sectionMargin = 100;
 
   function drawSidebar() {
-    if (window.scrollY - 20 >= (header.offsetTop + 1)) {
+    if (window.scrollY - 20 >= (header.offsetTop + header.offsetHeight + 1)) {
       makeFixed(menu);
       removeFixed(spacer);
     } else {

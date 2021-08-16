@@ -1,17 +1,42 @@
 {% set html_style = 'background-color: #FBF9F9;' %}
 {% set title = 'Side Navigation' %}
 {% from 'components/side-navigation/macro.njk' import sideNavigation %}
+{% from 'components/header/macro.njk' import header %}
 {% extends 'layout.njk' %}
 
 {% block body %}
+{{ header({
+      "showNav": "true",
+      "showSearch": "false",
+      "primaryLinks": [
+        {
+          "url"  : "https://www.nhs.uk/conditions",
+          "label" : "Health A-Z"
+        },
+        {
+          'url' : 'https://www.nhs.uk/live-well/',
+          'label' : 'Live Well'
+        },
+        {
+          'url'  : 'https://www.nhs.uk/conditions/social-care-and-support/',
+          'label' : 'Care and support'
+        },
+        {
+          'url'  : 'https://www.nhs.uk/news/',
+          'label' : 'Health news'
+        },
+        {
+          'url' : 'https://www.nhs.uk/service-search',
+          'label' : 'Services near you'
+        }
+      ]
+    })
+  }}
+
   <div class="nhsuk-width-container">
-  <div class="nhsuk-header__container" style="height: 100px; background-color: teal; width:800px">
-    The menu becomes fixed if you scroll down past this header element 'nhsuk-header__container'
-  </div>
-    <main class="nhsuk-main-wrapper" id="maincontent">
+  <main class="nhsuk-main-wrapper" id="maincontent">
       <div class="nhsuk-grid-row">
         <div class="nhsuk-grid-column-two-thirds">
-
           <div class="nhsuk-side-navigation-container" >
             {{ sideNavigation({
               items: [
