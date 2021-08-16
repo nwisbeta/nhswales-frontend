@@ -21,14 +21,14 @@
 }
 
 .nhsuk-side-navigation__item {
-  padding: 0 0 0 0;
+  padding: 0;
   position: relative;
 }
 
 .nhsuk-side-navigation__link {
+  border-bottom: 1px solid;
   display: inline-block;
   text-decoration: none;
-  border-bottom: 1px solid;
 }
 
 .nhsuk-side-navigation-spacer {
